@@ -1,0 +1,5 @@
+export const GET_PROJECTASKS = 'GET_PROJECTASKS';
+export const GET_USER = 'GET_USER';
+
+export const USER_STATUS = 'USER_STATUS';
+export const PROJECTASKS_STATUS = 'PROJECTASKS_STATUS';
